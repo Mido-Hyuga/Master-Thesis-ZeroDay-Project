@@ -15,7 +15,7 @@ This README provides a quick visual explanation of the main steps of the project
 ## 2️⃣ Model Trained
 
 <p align="center">
-  <img src="2-Trained.jpg" alt="Model Trained" width="60%">
+  <img src="Trained.jpg" alt="Model Trained" width="60%">
 </p>
 
 ---
@@ -23,7 +23,7 @@ This README provides a quick visual explanation of the main steps of the project
 ## 3️⃣ Tested & Hashed
 
 <p align="center">
-  <img src="3-Tested && Hashed.jpg" alt="Tested and Hashed" width="60%">
+  <img src="Tested && Hashed.jpg" alt="Tested and Hashed" width="60%">
 </p>
 
 ---
@@ -31,7 +31,7 @@ This README provides a quick visual explanation of the main steps of the project
 ## 4️⃣ Sent to Blockchain
 
 <p align="center">
-  <img src="4-Send to Blockchain.jpg" alt="Sent to Blockchain" width="60%">
+  <img src="Send to Blockchain.jpg" alt="Sent to Blockchain" width="60%">
 </p>
 
 ---
