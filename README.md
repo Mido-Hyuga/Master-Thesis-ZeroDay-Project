@@ -16,7 +16,7 @@ This project focuses on detecting Zero-Day attacks in distributed systems by lev
 
 ## 🖼 Architecture
 
-![Global Architecture](images/architecture-global.png)
+![Global Architecture](Images/architecture-global.png)
 
 ---
 
